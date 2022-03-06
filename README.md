@@ -1,7 +1,7 @@
 # fizzbuzz
 fizzbuzz program in spring boot
 
-# design pattern user
+# design pattern used
 1. Factory 
 2. Chain Of Responsibilirt
 
@@ -9,8 +9,8 @@ fizzbuzz program in spring boot
 import project as gradle
 Run test cases
 
-Api 
+# Api 
 ${host}/api/fizzBuzz/execute?lastNumber=20&printerType=IN_MEMORY
 
-basic auth 
+#basic auth 
 admin / admin
