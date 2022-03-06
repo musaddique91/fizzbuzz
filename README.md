@@ -12,5 +12,5 @@ Run test cases
 # Api 
 ${host}/api/fizzBuzz/execute?lastNumber=20&printerType=IN_MEMORY
 
-#basic auth 
+# basic auth 
 admin / admin
